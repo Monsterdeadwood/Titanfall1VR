@@ -16,6 +16,8 @@ VR-ветка Titanfall 1 для поддерживаемых сборок R1Del
 
 ## Установка
 
+**Зайди в [Discord R1Delta](https://discord.r1delta.net/)** — там установка R1Delta, обновления лаунчера и поддержка сообщества.
+
 | Компонент | Скачать / источник | Версия / выбор |
 | --- | --- | --- |
 | **R1Delta launcher** | [R1DeltaSetup.exe — скачать](https://github.com/r1delta/r1delta/releases/download/v3.0.5/R1DeltaSetup.exe) · [страница версии](https://github.com/r1delta/r1delta/releases/tag/v3.0.5) | R1Delta 3.0.5 — версия текущего описанного VR-кандидата. |

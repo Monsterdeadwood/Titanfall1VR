@@ -16,6 +16,8 @@ A VR development branch for Titanfall 1 on supported R1Delta builds, combining s
 
 ## Installation
 
+**Join the [R1Delta Discord](https://discord.r1delta.net/)** for R1Delta installation help, launcher updates and community support.
+
 | Component | Download / source | Version / selection |
 | --- | --- | --- |
 | **R1Delta launcher** | [R1DeltaSetup.exe — direct download](https://github.com/r1delta/r1delta/releases/download/v3.0.5/R1DeltaSetup.exe) · [release page](https://github.com/r1delta/r1delta/releases/tag/v3.0.5) | R1Delta 3.0.5, matching the current documented VR candidate. |
