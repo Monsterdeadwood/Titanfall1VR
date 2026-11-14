@@ -12,14 +12,14 @@
 
 A VR development branch for Titanfall 1 on supported R1Delta builds, combining stereo viewing, pilot weapon aiming and Titan cockpit work. Thanks to the [R1Delta team](https://r1delta.net/) for their community platform.
 
-**Current documented branch: R1Delta VR development branch.**
+**Current documented branch: R1Delta 3.0.5 stereo-camera/loadout test; separate weapon-direction candidate.**
 
 ## Installation
 
-1. Get the matching **Titanfall 1 VR / R1Delta** test package in the game’s Flat2VR thread. Verify ordinary R1Delta launches correctly first.
-2. Follow the supplied package layout: place the complete mod folder inside **t1**, beside **bin**, **r1** and **vpk**.
+1. Coordinate a **Titanfall 1 VR / R1Delta 3.0.5** test in the game’s Flat2VR thread. The current stereo-camera/loadout candidate is recorded as a local experimental build, not ready for a general community release.
+2. Run ordinary R1Delta once, then close Titanfall. Copy the complete **PUT_ME_IN_GAME_FOLDER** folder into **t1**, beside **bin**, **r1** and **vpk**. Keep the supplied folder structure.
 3. Connect PC VR, choose its OpenXR runtime and open **RUN_TITANFALL_VR.bat**. Keep the console open.
-4. Use the package’s CONTROLS.txt and read its supported R1Delta/game-build requirements before testing.
+4. The first launch prepares a pinned dependency and may need one internet download. The original game menu opens. Follow the assigned local test scenario; populated public-server play is not qualified. Controls are in TF1VR/assets/controls/TOUCH_LAYOUT.json.
 
 Current test-package availability is coordinated in Discord. Use the complete package for your supported game build; this project page is separate from a release download.
 
@@ -35,9 +35,17 @@ Current test-package availability is coordinated in Discord. Use the complete pa
 
 | Input | Action |
 | --- | --- |
-| RUN_TITANFALL_VR.bat | Start the package |
-| CONTROLS.txt in the package | Use the action map for that exact candidate |
-| Ctrl+C in the launcher | Close the owned test session |
+| Right trigger | Fire |
+| A | Pilot: jump / double jump; Titan: dash |
+| B | Crouch toggle |
+| X tap / hold | Reload / use, hacking or embark; Titan hold: disembark |
+| Y tap / hold | Cycle weapon / pick up weapon |
+| Left trigger | Pilot: anti-Titan weapon; Titan: defensive ability / Vortex Shield |
+| Left grip / right grip | Ordnance / tactical ability |
+| Left stick click / right stick click | Melee / sprint |
+| Right stick down tap / hold | Pilot: call Titan or follow-guard; Titan: core / arm eject, then press X three times |
+| Right stick up | Scoreboard |
+| Left Menu tap / hold 0.4 s | Recenter / game menu |
 
 The complete package control sheet takes precedence for its version and interaction profile.
 
@@ -45,10 +53,11 @@ The complete package control sheet takes precedence for its version and interact
 
 ## Current status
 
-**Experimental preview.** The native weapon-direction candidate was tested in the actual game with XR Sim and an owned private server, including pilot movement/jumps and 16 weapon classes.
+**Local test candidate.** The R1Delta 3.0.5 stereo-camera/loadout candidate passed local native-game/XR Sim pilot and Titan checks. It is a distinct candidate from the 16-weapon native-direction investigation.
 
 - Latest aim-coverage tests do not establish physical-headset acceptance or populated public PvP compatibility.
 - Server shot origin remains native/player-based in the latest coverage candidate. Full impact parity, every weapon and ability remain open.
+- The SteamVR inversion report still needs physical-headset confirmation. Vortex uses a stock server origin; full positional left-hand shield physics is not finished.
 
 Native shot prediction, cockpit behavior and broader weapon coverage are developed in separate controlled candidates.
 
@@ -62,7 +71,6 @@ Post in the game’s [Flat2VR thread](https://discord.gg/P4q9zt7ek) with your **
 
 | Game / project | Focus | Visibility |
 | --- | --- | --- |
-| [Battlefield 3 VR](https://github.com/Monsterdeadwood/BF3VR) | Campaign, tracked weapons and hands | Private |
 | [Assassin’s Creed VR](https://github.com/Monsterdeadwood/AC1VR) | First-person exploration, climbing and sword interaction | Private |
 | [Crysis 2 VR](https://github.com/Monsterdeadwood/C2VR) | Nanosuit combat, physical interaction and spatial UI | Private |
 | [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR) | CS:GO Legacy local matches with motion controls | Private |
