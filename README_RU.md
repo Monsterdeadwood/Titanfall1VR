@@ -43,7 +43,8 @@ VR-ветка Titanfall 1 для поддерживаемых сборок R1Del
 | Left trigger | Пилот: противотитанное оружие; титан: защита / Vortex Shield |
 | Left grip / right grip | Боеприпас-граната / тактическая способность |
 | Left stick click / right stick click | Ближний бой / бег |
-| Right stick down tap / hold | Пилот: вызвать титана или следовать-охранять; титан: ядро / подготовить катапультирование, затем три раза X |
+| Right stick down tap | Пилот: вызвать титана / следовать-охранять; титан: способность ядра |
+| Right stick down hold 0.4 s, in Titan | Подготовить катапультирование, затем три раза нажать X |
 | Right stick up | Счёт |
 | Left Menu tap / hold 0.4 s | Сброс камеры / игровое меню |
 

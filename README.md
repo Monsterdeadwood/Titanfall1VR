@@ -43,7 +43,8 @@ Current test-package availability is coordinated in Discord. Use the complete pa
 | Left trigger | Pilot: anti-Titan weapon; Titan: defensive ability / Vortex Shield |
 | Left grip / right grip | Ordnance / tactical ability |
 | Left stick click / right stick click | Melee / sprint |
-| Right stick down tap / hold | Pilot: call Titan or follow-guard; Titan: core / arm eject, then press X three times |
+| Right stick down tap | Pilot: call Titan / follow-guard; Titan: core ability |
+| Right stick down hold 0.4 s, in Titan | Arm eject, then press X three times |
 | Right stick up | Scoreboard |
 | Left Menu tap / hold 0.4 s | Recenter / game menu |
 
