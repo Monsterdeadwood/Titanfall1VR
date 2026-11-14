@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Titanfall 1 VR by Monsterdeadwood</title><desc id="desc">R1DELTA / PILOT WEAPONS / TITAN COCKPITS. Original abstract project banner.</desc>
+<defs><linearGradient id="bg" x2="1" y2=".4"><stop stop-color="#0b101b"/><stop offset=".65" stop-color="#152236"/><stop offset="1" stop-color="#203448"/></linearGradient><linearGradient id="line"><stop stop-color="#ffb156"/><stop offset="1" stop-color="#76d9ff"/></linearGradient><radialGradient id="glow"><stop stop-color="#ffb156" stop-opacity=".23"/><stop offset="1" stop-color="#ffb156" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="340" rx="18" fill="url(#bg)"/><ellipse cx="1025" cy="170" rx="310" ry="280" fill="url(#glow)"/>
+<path d="M740 0 L620 340 M770 0 L650 340" stroke="white" opacity=".035" stroke-width="1"/><circle cx="1040" cy="170" r="110" fill="none" stroke="#76d9ff" stroke-width="2" opacity=".32"/><circle cx="1040" cy="170" r="70" fill="none" stroke="#76d9ff" stroke-width="2" opacity=".42"/><path d="M1040 30 V100 M1040 240 V310 M900 170 H970 M1110 170 H1180" stroke="#76d9ff" stroke-width="2" opacity=".6"/><circle cx="1040" cy="170" r="5" fill="#ffb156"/>
+<rect x="0" y="0" width="9" height="340" rx="4" fill="url(#line)"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="58" y="50" fill="#76d9ff" font-size="16" font-weight="700" letter-spacing="4">MONSTERDEADWOOD / VR MODS</text>
+<text x="56" y="139" fill="#fff" font-size="62" font-weight="800" letter-spacing="1">TITANFALL 1</text>
+<text x="58" y="201" fill="#ffb156" font-size="49" font-weight="700" letter-spacing="2">PILOT &amp; TITAN VR</text>
+<text x="60" y="250" fill="#c0cedd" font-size="16" letter-spacing="1.3">R1DELTA / PILOT WEAPONS / TITAN COCKPITS</text>
+<rect x="58" y="278" width="490" height="33" rx="16" fill="#fff" fill-opacity=".065" stroke="#fff" stroke-opacity=".15"/>
+<circle cx="77" cy="294" r="4" fill="#ffb156"/><text x="91" y="300" fill="#e9eef5" font-size="13" font-weight="700" letter-spacing="1">EXPERIMENTAL PREVIEW · WINDOWS PC</text></g></svg>
