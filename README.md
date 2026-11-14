@@ -16,10 +16,18 @@ A VR development branch for Titanfall 1 on supported R1Delta builds, combining s
 
 ## Installation
 
-1. Coordinate a **Titanfall 1 VR / R1Delta 3.0.5** test in the game’s Flat2VR thread. The current stereo-camera/loadout candidate is recorded as a local experimental build, not ready for a general community release.
-2. Run ordinary R1Delta once, then close Titanfall. Copy the complete **PUT_ME_IN_GAME_FOLDER** folder into **t1**, beside **bin**, **r1** and **vpk**. Keep the supplied folder structure.
-3. Connect PC VR, choose its OpenXR runtime and open **RUN_TITANFALL_VR.bat**. Keep the console open.
-4. The first launch prepares a pinned dependency and may need one internet download. The original game menu opens. Follow the assigned local test scenario; populated public-server play is not qualified. Controls are in TF1VR/assets/controls/TOUCH_LAYOUT.json.
+| Component | Download / source | Version / selection |
+| --- | --- | --- |
+| **R1Delta launcher** | [R1DeltaSetup.exe — direct download](https://github.com/r1delta/r1delta/releases/download/v3.0.5/R1DeltaSetup.exe) · [release page](https://github.com/r1delta/r1delta/releases/tag/v3.0.5) | R1Delta 3.0.5, matching the current documented VR candidate. |
+| **VR test package** | [Request the matching package on Flat2VR](https://discord.gg/P4q9zt7ek) | Titanfall 1 VR stereo-camera/loadout test. The launcher installer above does not include this VR package. |
+
+1. Download **R1DeltaSetup.exe 3.0.5** using the link above and install the community launcher. The upstream project is [r1delta/r1delta](https://github.com/r1delta/r1delta); [r1delta.net](https://r1delta.net/) links to the same launcher family.
+2. Prepare your supported Titanfall 1 installation in R1Delta. Run the normal game once, then close it. Locate its **t1** game-data folder containing **bin**, **r1** and **vpk**.
+3. Request the matching **Titanfall 1 VR / R1Delta 3.0.5** package in the game’s Flat2VR thread. The current documented camera/loadout candidate is a local experimental build, not a general community release.
+4. Copy the complete **PUT_ME_IN_GAME_FOLDER** folder into **t1**, beside bin, r1 and vpk. Keep **RUN_TITANFALL_VR.bat** beside the package’s **TF1VR** folder. Use the game-data directory, not the R1Delta application directory.
+5. Connect PC VR, select your OpenXR runtime and run **RUN_TITANFALL_VR.bat**. Keep its console open. First launch may download a pinned dependency once.
+6. The original game menu opens. Follow the agreed local test scenario; the current candidate does not establish populated public-server compatibility. Controls are in **TF1VR/assets/controls/TOUCH_LAYOUT.json**.
+7. After testing, send the newest session ZIP from **SEND_ME_TO_DISCORD** to the Flat2VR thread. If a session was interrupted, **RUN_TITANFALL_VR.bat --restore** restores the known original files.
 
 Current test-package availability is coordinated in Discord. Use the complete package for your supported game build; this project page is separate from a release download.
 

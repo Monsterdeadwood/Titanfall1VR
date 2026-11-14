@@ -32,6 +32,7 @@ This overview was reconciled against the project’s recorded package notes and 
 - `TF1VR/assets/controls/TOUCH_LAYOUT.json`
 - `TF1VR_WEAPON_COVERAGE_20261111.txt`
 - `tf1_weapon_coverage_20261111/QUALIFICATION.json`
+- `Upstream r1delta/r1delta v3.0.5 release asset metadata, checked 2026-11-14`
 
 Game execution, simulator validation and physical-headset feedback are reported separately above. Features from a separate experimental branch are identified explicitly.
 
