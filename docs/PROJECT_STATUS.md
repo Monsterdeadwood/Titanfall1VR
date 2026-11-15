@@ -9,6 +9,14 @@ Reviewed **14 November 2026**. Documented branch: **R1Delta 3.0.5 stereo-camera/
 - The R1Delta 3.0.5 stereo-camera/loadout candidate passed local native-game/XR Sim pilot and Titan checks. It is a distinct candidate from the 16-weapon native-direction investigation.
 - The native weapon-direction candidate was tested in the actual game with XR Sim and an owned private server, including pilot movement/jumps and 16 weapon classes.
 
+## Follow-up tests reviewed 16 November 2026
+
+The fallback test matched 240 native shot records for R101, P2011 and XO16 on a separate R1Delta 3.0.5 server. The maximum direction difference was 0.0381°. Three client records without an unambiguous server match were left out. The weapon-coverage and stereo-camera candidates have their own test scopes.
+
+Verification records used for this section
+
+- `TF1VR_NATIVE_SHOOTING_20261111.txt`
+
 ## Current limits
 
 - Latest aim-coverage tests do not establish physical-headset acceptance or populated public PvP compatibility.

@@ -64,6 +64,11 @@ The complete package control sheet takes precedence for its version and interact
 
 </details>
 
+## Features in newer test builds
+
+- **Aim independently of where you look.** In a separate R1Delta test, turning the headset while holding the P2011 still left the shot direction stable. Moving the weapon hand changed it.
+- **Client and server checked together.** The test matched 240 shots across the R101, P2011 and Titan XO16 against a separate local server. That covered shot direction. The server still uses the stock player shot origin.
+
 ## Current status
 
 **Local test candidate.** The R1Delta 3.0.5 stereo-camera/loadout candidate passed local native-game/XR Sim pilot and Titan checks. It is a distinct candidate from the 16-weapon native-direction investigation.
