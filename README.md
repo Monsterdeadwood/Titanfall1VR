@@ -2,7 +2,9 @@
 > **[TEST BUILDS & DISCUSSION · FLAT2VR DISCORD](https://discord.gg/P4q9zt7ek)**
 > Testing, build requests, feedback and discussion happen in the **Flat2VR Modding Discord**. Join the server and find the **Titanfall 1 VR** thread.
 
-![Titanfall 1 VR — Monsterdeadwood VR mods](assets/vr-banner.svg)
+<p align="center">
+  <img src="assets/vr-banner.png" alt="Titanfall 1 VR — VR" width="720">
+</p>
 
 # Titanfall 1 VR
 
