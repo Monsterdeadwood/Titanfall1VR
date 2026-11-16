@@ -43,11 +43,3 @@ This overview was reconciled against the project’s recorded package notes and 
 - `Upstream r1delta/r1delta v3.0.5 release asset metadata, checked 2026-11-14`
 
 Game execution, simulator validation and physical-headset feedback are reported separately above. Features from a separate experimental branch are identified explicitly.
-
-## Кратко по-русски
-
-VR-ветка Titanfall 1 для поддерживаемых сборок R1Delta: стереообзор, прицеливание пилота и работа с кабинами титанов. Спасибо команде [R1Delta](https://r1delta.net/) за общественную платформу.
-
-- Последние проверки прицеливания не подтверждают принятие в физическом шлеме и совместимость публичного PvP с людьми.
-- В последнем кандидате серверная точка выстрела остаётся штатной, от игрока. Совпадение конечных попаданий, всё оружие и способности ещё требуют проверки.
-- Сообщение о перевороте SteamVR ещё требует подтверждения в физическом шлеме. Vortex использует штатную серверную точку; полная позиционная физика левого щита не завершена.
