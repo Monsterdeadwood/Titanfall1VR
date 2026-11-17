@@ -41,7 +41,7 @@ The stereo cockpit and shot-direction checks used separate XR Sim builds. The Pv
 
 <p align="center">
   <a href="assets/gameplay/inside-ogre-cockpit.jpg"><img src="assets/gameplay/inside-ogre-cockpit.jpg" alt="Head-tracked view inside an Ogre Titan cockpit" width="48%" align="top"></a>
-  <a href="assets/gameplay/pilot-street.jpg"><img src="assets/gameplay/pilot-street.jpg" alt="Pilot view on a city street before embarking" width="48%" align="top"></a>
+  <a href="assets/gameplay/sunlit-titan-combat.jpg"><img src="assets/gameplay/sunlit-titan-combat.jpg" alt="A Titan weapon and the battlefield in warm evening light" width="48%" align="top"></a>
 </p>
 
 [Tester credits](TESTERS.md) · [Build details](docs/PROJECT_STATUS.md)
@@ -50,13 +50,15 @@ The stereo cockpit and shot-direction checks used separate XR Sim builds. The Pv
 
 ## 🎮 Other VR mods
 
-- [Alone in the Dark (2008) VR](https://github.com/Monsterdeadwood/AloneInTheDark2008VR)
-- [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp)
-- [Burnout Paradise Remastered VR](https://github.com/Monsterdeadwood/BUrnOutPvr)
-- [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR)
-- [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR)
-- [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR)
-- [Rainbow Six Siege VR](https://github.com/Monsterdeadwood/SiegeVR)
-- [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR)
-- [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR)
-- [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR)
+| VR mod | Highlights |
+| --- | --- |
+| [Alone in the Dark (2008) VR](https://github.com/Monsterdeadwood/AloneInTheDark2008VR) | Tracked item handling and hand contact with walls |
+| [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp) | Body holsters, two-handed aiming, and changing campaign skies |
+| [Burnout Paradise Remastered VR](https://github.com/Monsterdeadwood/BUrnOutPvr) | Head-tracked driving with stereo boost and exhaust effects |
+| [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR) | Physical melee, object grabbing, and a rooftop weapon range |
+| [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR) | Controller aiming and working optics in local bot matches |
+| [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR) | Telekinesis, hand lightning, and object physics |
+| [Rainbow Six Siege VR](https://github.com/Monsterdeadwood/SiegeVR) | Tracked weapons and two-handed foregrip handling |
+| [Star Wars: The Force Unleashed II VR](https://github.com/Monsterdeadwood/TFU2VR) | Two tracked lightsabers and independent Force grip |
+| [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR) | Randomized weather, day and night, and roomscale crouching |
+| [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR) | Tracked weapons and melee with either hand |
