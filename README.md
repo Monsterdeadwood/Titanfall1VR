@@ -14,8 +14,8 @@
 ## 📦 INSTALLATION
 
 1. Install **Titanfall 1** and the [**R1Delta launcher**](https://r1delta.net/). Run the game once. The [R1Delta Discord](https://discord.r1delta.net/) has launcher setup help.
-2. Copy `PUT_ME_IN_GAME_FOLDER` into the game’s `t1` folder, beside `bin`, `r1`, and `vpk`.
-3. Connect your PC VR headset and run **`RUN_TITANFALL_VR.bat`** beside the `TF1VR` folder inside the mod.
+2. **Put the mod archive in Titanfall’s `t1` folder**, which contains `bin`, `r1`, and `vpk`. Extract it there and keep the entire `PUT_ME_IN_GAME_FOLDER` folder.
+3. Connect your PC VR headset, open the extracted `PUT_ME_IN_GAME_FOLDER` folder, and run **`RUN_TITANFALL_VR.bat`**.
 
 <a name="features"></a>
 
