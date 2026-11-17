@@ -1,9 +1,9 @@
 > [!IMPORTANT]
 > **TEST BUILDS & DISCUSSION**
 >
-> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)**
+> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)** · **[Open the Titanfall 1 thread](https://discord.com/channels/747967102895390741/1563500399753822339)**
 >
-> Ask for the matching test build and share feedback in the **Titanfall 1 VR** discussion.
+> Download the latest test build from the thread and share your results there.
 
 <p align="center">
   <img src="assets/vr-banner.png" alt="Titanfall 1 VR" width="720">
@@ -29,6 +29,6 @@ Play as the Pilot and look around the Titan cockpit in head-tracked stereo.
 
 A separate aim test matched the direction of 240 shots on the client and a local server with the R101, P2011 and Titan XO16.
 
-Local XR Sim candidates. The stereo cockpit and shot-direction tests used separate builds; public PvP still needs testing.
+The stereo cockpit and shot-direction checks used separate XR Sim builds. The PvP build is experimental; public-server hit registration still needs testing.
 
 [Other VR mods](PORTFOLIO.md) · [Tester credits](TESTERS.md) · [Build details](docs/PROJECT_STATUS.md)
